@@ -1,4 +1,4 @@
-args[0] = "Niklas Notland, sensor stue, slått av"
+
 // Hvis ingen argument blir brukt
 if (typeof args[0] == "undefined") {
   // Send en feilmelding og avbryt programmet
